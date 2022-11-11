@@ -2,7 +2,7 @@
 
 # Food-Order
 
-> This project is a simple library that displays a list of books which can be added and removed by the users.
+> This is a simple food order app that allows you to add food items to the cart and order. You can also edit the amount added, and remove or add extra quantity of food items in the cart.
 
 ## Built With
 
