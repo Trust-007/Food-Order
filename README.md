@@ -27,7 +27,7 @@ Assuming you have git installed on your computer, please follow the steps below:
 
 - Create a folder
 - Navigate to that folder in the command line using the `cd` command
-- Clone the repository using the following command: `git clone https://github.com/Trust-007/Awesome-Books.git
+- Clone the repository using the following command: `git clone https://github.com/Trust-007/Food-Order.git`
 - `cd` into the project
 - In the terminal run `npm install` and then `npm start`
 
