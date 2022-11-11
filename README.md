@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-You can check out the project using this [live demo link](• https://food-order-demo.netlify.app/)
+You can check out the project using this [live demo link](https://food-order-demo.netlify.app/)
 
 ## Getting Started
 
